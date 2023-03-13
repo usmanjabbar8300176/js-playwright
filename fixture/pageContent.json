@@ -1,0 +1,20 @@
+{
+  "verifyHomePageText": [
+    {
+      "text": "Home"
+    }
+  ],
+  "VerifyText": [
+    {
+      "text": "Get In Touch"
+    }
+  ],
+  "credentials": [
+    {
+      "name": "Muhammad Usman",
+      "email": "usmanjabbar09@gmail.com",
+      "subject": "Testing playwright frame work",
+      "comments": "Am working on testing playwright frame work and wanted to know how the page object model(pom) is working"
+    }
+  ]
+}
